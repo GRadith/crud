@@ -1,0 +1,2 @@
+# crud
+template crud (basic)
